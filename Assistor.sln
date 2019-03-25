@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assistor", "Assistor\Assistor.vcxproj", "{0301A741-4B8F-4C8E-881C-422403B60525}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{38E25ABC-A065-4597-BFDC-57CF280CE157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0301A741-4B8F-4C8E-881C-422403B60525}.Debug|x64.ActiveCfg = Debug|x64
+		{0301A741-4B8F-4C8E-881C-422403B60525}.Debug|x64.Build.0 = Debug|x64
+		{0301A741-4B8F-4C8E-881C-422403B60525}.Debug|x86.ActiveCfg = Debug|Win32
+		{0301A741-4B8F-4C8E-881C-422403B60525}.Debug|x86.Build.0 = Debug|Win32
+		{0301A741-4B8F-4C8E-881C-422403B60525}.Release|x64.ActiveCfg = Release|x64
+		{0301A741-4B8F-4C8E-881C-422403B60525}.Release|x64.Build.0 = Release|x64
+		{0301A741-4B8F-4C8E-881C-422403B60525}.Release|x86.ActiveCfg = Release|Win32
+		{0301A741-4B8F-4C8E-881C-422403B60525}.Release|x86.Build.0 = Release|Win32
+		{38E25ABC-A065-4597-BFDC-57CF280CE157}.Debug|x64.ActiveCfg = Debug
+		{38E25ABC-A065-4597-BFDC-57CF280CE157}.Debug|x86.ActiveCfg = Debug
+		{38E25ABC-A065-4597-BFDC-57CF280CE157}.Release|x64.ActiveCfg = Release
+		{38E25ABC-A065-4597-BFDC-57CF280CE157}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {512DA8E7-F3F6-4223-A126-1AD330396C65}
+	EndGlobalSection
+EndGlobal
